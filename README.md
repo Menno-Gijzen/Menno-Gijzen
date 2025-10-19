@@ -25,7 +25,7 @@ Beyond the blue team, I explore the human side of security through **social engi
 - 🖥️ **SOC Operations & Coordination** – Incident management, playbook design, and process optimization  
 - 🧩 **SIEM Engineering** – Detection logic, correlation rules, and alert tuning  
 - 🐍 **Python & Automation** – Custom tooling for analysis, enrichment, and reporting  
-- 🎭 **Social Engineering** – Phishing, vishing, and on-site security awareness assessments  
+- 🎭 **Social Engineering** – Phishing, vishing, and mystery-guest engagements  
 
 ---
 
